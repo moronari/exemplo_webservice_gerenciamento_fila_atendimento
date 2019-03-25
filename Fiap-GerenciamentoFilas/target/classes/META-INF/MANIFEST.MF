@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: gerenciamento-filas
+Implementation-Version: 0.0.1
+Built-By: alexa
+Implementation-Vendor-Id: fiap.jsf
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/gerenciament
+ o-filas/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
